@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alinakovtu
-- 🌱 I’m currently learning testing
+- 🌱 I’m currently learning JS
 
 
 <!---
